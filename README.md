@@ -31,7 +31,7 @@ If the OTP is incorrect, the user is prompted to enter it again, and the process
 
 If the user wants to resend the OTP, they can choose to do so. This involves generating a new OTP and sending a new email.
 
-8.Final OTP Verification:
+7.Final OTP Verification:
 
 After the user successfully verifies the OTP, the script prints "OTP verified".
 If the OTP is still incorrect after retries, the script prompts the user to enter a new email ID or resend the OTP to the same email.
